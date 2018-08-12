@@ -76,7 +76,7 @@ Now we have a better grasp about the internet, and how some of the things are wo
  * D.	The standardised method for transferring data or documents over a network
  * E.	The standardised method for prioratising data or document storage over a network
  
-       Answer: D
+      Answer: D
  
 1. What does DNS stand for?
 
@@ -88,7 +88,7 @@ Now we have a better grasp about the internet, and how some of the things are wo
       
 1. What is The markup language used for all web documents?
 
-      Markdown
+      XML - Extensible Markup Language
       
 1. What is the organization that monitors web technologies?
 
@@ -96,7 +96,7 @@ Now we have a better grasp about the internet, and how some of the things are wo
       
 1. What is the Protocol for transferring web documents on the Internet?
 
-      HTTP
+      HTTP, or Hypertext Markup Language (not sure which is being asked for here)
 
 1. What matches the domain names with numeric IP addresses?
 
