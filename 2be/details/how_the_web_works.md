@@ -18,16 +18,16 @@ Now we have a better grasp about the internet, and how some of the things are wo
 
 1.  What does HTTP stand for?
 
-   Hypertext Transfer Protocol
+       Hypertext Transfer Protocol
    
 1. 	What protocol does the World Wide Web use?
 
-   HTTP or HTTPS
+       HTTP or HTTPS
    
 1. 	Each computer on the Internet is assigned an IP address, what does IP stand for?
    
 1. 	What does DNS stand for?
-  * A. Domain Name System
+  *** A. Domain Name System**
   * B. Digital Number System
   * C. Domain Number System
   * D. Domain Name Service
