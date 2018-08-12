@@ -27,30 +27,51 @@ Now we have a better grasp about the internet, and how some of the things are wo
 1. 	Each computer on the Internet is assigned an IP address, what does IP stand for?
    
 1. 	What does DNS stand for?
-  *** A. Domain Name System**
+
+  * A. Domain Name System
   * B. Digital Number System
   * C. Domain Number System
   * D. Domain Name Service
   * E. Digital Name Service
+  
+              Answer: A
+              
 1. 	How are text domain names matched to their respective numeric IP addresses.
+
 1. 	What is the client?
+
   * A. A purchaser
   * B. Internet shopping customer (Consumer)
   * C. The software which requests information from a server (browser)
   * D. The server to which a particular computer sends data
   * E. The computer which the IP address belongs to
+  
 1. 	What does URL stand for?
+
 1. 	What are protocols
+
  * A. The standardisation of IP addressess
  * B. The DNS standard method for data transfer
  * C.	The standardised network address system
  * D.	The standardised method for transferring data or documents over a network
  * E.	The standardised method for prioratising data or document storage over a network
+ 
 1. What does DNS stand for?
+
+       Domain Name System
+       
 1. what is the `www` portion of a url?
+
+
 1. What is The markup language used for all web documents?
+
+       Markdown
 1. What is the organization that monitors web technologies?
+
+
 1. What is the Protocol for transferring web documents on the Internet?
+
+
 1. What matches the domain names with numeric IP addresses?
 
 
