@@ -15,9 +15,17 @@ Review the materials below.
 Now we have a better grasp about the internet, and how some of the things are working. Now, let's answer a few questions to check our understanding. Don't be afraid to do additional research (googleing) for an answer. Fork this gist and answer the following questions:
 
 1. Describe, step by step, what happens when I type `www.example.com` into my browser and try to go to the page?
+
 1.  What does HTTP stand for?
+
+   Hypertext Transfer Protocol
+   
 1. 	What protocol does the World Wide Web use?
+
+   HTTP or HTTPS
+   
 1. 	Each computer on the Internet is assigned an IP address, what does IP stand for?
+   
 1. 	What does DNS stand for?
   * A. Domain Name System
   * B. Digital Number System
