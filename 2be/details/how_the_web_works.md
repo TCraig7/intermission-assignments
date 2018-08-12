@@ -16,6 +16,18 @@ Now we have a better grasp about the internet, and how some of the things are wo
 
 1. Describe, step by step, what happens when I type `www.example.com` into my browser and try to go to the page?
 
+      Step 1: When you type in www.example.com, your operating system and browser will determine if they already know the IP address. If they do, they will direct you to that webpage.
+      
+      Step 2: If they do not already know the IP address, the OS will ask a Resolving Name Server (RNS) for the IP address.
+      
+      Step 3: The RNS will then ask the Root Name Servers.
+      
+      Step 4: The Root name servers will direct the RNS to the Top Level Domain name servers.
+      
+      Step 5: The RNS will go to the Top Level Domain name servers, who will direct the RNS to the example.com name servers.
+      
+      Step 6: The example.com name servers will give the IP address to the RNS, which will relay this info back to the OS, which then sends it to the browser. The browser uses the IP address to connect to the web page.
+
 1.  What does HTTP stand for?
 
        Hypertext Transfer Protocol
@@ -25,6 +37,8 @@ Now we have a better grasp about the internet, and how some of the things are wo
        HTTP or HTTPS
    
 1. 	Each computer on the Internet is assigned an IP address, what does IP stand for?
+
+       Internet Protocol
    
 1. 	What does DNS stand for?
 
@@ -38,6 +52,8 @@ Now we have a better grasp about the internet, and how some of the things are wo
               
 1. 	How are text domain names matched to their respective numeric IP addresses.
 
+       DNS creates a mapping between the numeric IP address and the text domain name.
+
 1. 	What is the client?
 
   * A. A purchaser
@@ -46,7 +62,11 @@ Now we have a better grasp about the internet, and how some of the things are wo
   * D. The server to which a particular computer sends data
   * E. The computer which the IP address belongs to
   
+       Answer: E
+  
 1. 	What does URL stand for?
+
+       Uniform Resource Locator
 
 1. 	What are protocols
 
@@ -55,6 +75,8 @@ Now we have a better grasp about the internet, and how some of the things are wo
  * C.	The standardised network address system
  * D.	The standardised method for transferring data or documents over a network
  * E.	The standardised method for prioratising data or document storage over a network
+ 
+       Answer: D
  
 1. What does DNS stand for?
 
@@ -74,10 +96,8 @@ Now we have a better grasp about the internet, and how some of the things are wo
       
 1. What is the Protocol for transferring web documents on the Internet?
 
+      HTTP
 
 1. What matches the domain names with numeric IP addresses?
 
-
-
-
-
+      DNS
