@@ -34,7 +34,7 @@ Now we have a better grasp about the internet, and how some of the things are wo
   * D. Domain Name Service
   * E. Digital Name Service
   
-              Answer: A
+       Answer: A
               
 1. 	How are text domain names matched to their respective numeric IP addresses.
 
@@ -58,17 +58,20 @@ Now we have a better grasp about the internet, and how some of the things are wo
  
 1. What does DNS stand for?
 
-       Domain Name System
+      Domain Name System
        
 1. what is the `www` portion of a url?
 
-
+      World Wide Web - a prefix in the url
+      
 1. What is The markup language used for all web documents?
 
-       Markdown
+      Markdown
+      
 1. What is the organization that monitors web technologies?
 
-
+      W3C - World Wide Web Consortium
+      
 1. What is the Protocol for transferring web documents on the Internet?
 
 
